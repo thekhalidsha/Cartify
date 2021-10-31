@@ -57,5 +57,9 @@ Credentials:
   
   
 ** If you Found any Similar FrontEnd like My Code **
+
 ** It's Possible because i'm using 'CSS' styles from PHPPOT for better Looks!! **
+
 ** So Please Don't Come Arguing it's all Cloned UP! Just Take a Look at My Demo to Know All Features!! **
+
+** You can get yourself clear if you look my whole Features and Setups inside my Code **
