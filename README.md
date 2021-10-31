@@ -6,13 +6,11 @@ this Script is fully authorised by Me!!
 
 
 wanna See Demo?
-https://androidkunjappan.000webhostapp.com/
-see there...
+• **[Visit Site](http://textstore.atwebpages.com/)** (CJ)
 
 
 if you wanna see the admin panel?
-https://androidkunjappan.000webhostapp.com/adminex/
-
+• **[Visit Site](http://textstore.atwebpages.com/adminex)** (CJ)
 
 admin user: khalid
 admin pass; khalidsha
