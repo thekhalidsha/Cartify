@@ -1,16 +1,28 @@
 # Cartify - Shopping Cart Script
-A Simple and Slightly Customisable Shopping Cart , Shop without SignUp!! Use WhatsApp Nuber Insted for Ordering!!
+A Simple and Slightly Customisable Shopping Site!!
 
-this Script is fully authorised by Me!!
+### Features
+ ✅️ Shopping Panel (Front-End)
+ ✅️ Shopping Cart
+ ✅️ Cart Checkout Panel 
+ ✅️ Admin Panel 
+ ✅️ Admin Settings for Customising
+ ✅️ Add, Delete or Edit Shop Products
+ ✅️ View Customer Orders with All Details!
+ ✅️ Search Products in Shopping Panel
+ ✅️ And Much More!! 
+ 
+ ✅️✅️ Will Update Occassionally ✅️✅️
 
+Demo Site Link:
 
-
-wanna See Demo?
 • **[Visit Site](http://textstore.atwebpages.com/)** (CJ)
 
+Demo Admin Panel:
 
-if you wanna see the admin panel?
-• **[Visit Site](http://textstore.atwebpages.com/adminex)** (CJ)
+• **[Visit Admin Panel](http://textstore.atwebpages.com/adminex)** (CJ)
 
-admin user: khalid
-admin pass; khalidsha
+Credentials:
+* Admin Username: khalid
+* Admin Password: khalidsha
+
