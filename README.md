@@ -40,11 +40,11 @@ Credits & Thanks were Mentioned Last in this ReadMe!!
 
 Demo Site Link:
 
-• **[Visit Site](http://textstore.atwebpages.com/)** (CJ)
+• **[Visit Site](http://textstore.atwebpages.com/)** 
 
 Demo Admin Panel:
 
-• **[Visit Admin Panel](http://textstore.atwebpages.com/adminex)** (CJ)
+• **[Visit Admin Panel](http://textstore.atwebpages.com/adminex)** 
 
 Credentials:
 * Admin Username: khalid
@@ -70,3 +70,11 @@ Credentials:
 ** So Please Don't Come Arguing it's all Cloned UP! Just Take a Look at My Demo to Know All Features!! **
 
 ** You can get yourself clear if you look my whole Features and Setups inside my Code **
+
+### Screenshots:
+
+<img src="home.png">
+<img src="admin.png">
+<img src="settings.png">
+<img src="products.png">
+<img src="checkout.png">
