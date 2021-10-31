@@ -1,6 +1,13 @@
 # Cartify - Shopping Cart Script
 A Simple and Slightly Customisable Shopping Site!!
 
+Order without Signing Up!! 
+
+
+Fully Maintained and Create by Me.
+
+Credits & Thanks were Mentioned Last in this ReadMe!!
+
 ### Features:
  ✅️ Shopping Panel (Front-End)
  
